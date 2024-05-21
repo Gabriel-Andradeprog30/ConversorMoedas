@@ -1,0 +1,23 @@
+[
+  {
+    "currencyBaseCode": "BRL",
+    "convertedCurrencyCode": "USD",
+    "amountToConvert": 1000.0,
+    "convertedAmount": 194.1,
+    "lastUpdate": "15 May 2024 00:00:01 "
+  },
+  {
+    "currencyBaseCode": "ARS",
+    "convertedCurrencyCode": "USD",
+    "amountToConvert": 2000.0,
+    "convertedAmount": 2.312,
+    "lastUpdate": "15 May 2024 00:00:01 "
+  },
+  {
+    "currencyBaseCode": "COP",
+    "convertedCurrencyCode": "USD",
+    "amountToConvert": 1.0E8,
+    "convertedAmount": 25732.0,
+    "lastUpdate": "15 May 2024 00:00:01 "
+  }
+]
